@@ -1,8 +1,8 @@
-module github.com/paul-milne/zap-loki
+module github.com/procolost/zap-loki
 
-go 1.20
+go 1.21
 
-require go.uber.org/zap v1.24.0
+require go.uber.org/zap 
 
 require (
 	github.com/pkg/errors v0.9.1 // indirect
